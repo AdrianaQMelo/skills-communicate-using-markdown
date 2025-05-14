@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+##### Add Task list
+- [ ] Focous on studies
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
